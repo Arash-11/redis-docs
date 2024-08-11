@@ -1,14 +1,14 @@
-**README: Contents**
-  [Introduction](#Introduction)
-  [Beyond key-value databases](#Beyond-key-value-databases)
-  [What are the differences between Redis and Memcached?](#What-are-the-differences-between-Redis-and-Memcached)
-  [What are the differences between Redis and Tokyo Cabinet / Tyrant?](#What-are-the-differences-between-Redis-and-Tokyo-Cabinet-/-Tyrant)
-  [Does Redis support locking?](#Does Redis support locking?)
-  [Multiple databases support](#Multiple-databases-support)
-  [Redis Data Types](#Redis Data Types)
-    [Implementation Details](#Implementation-Details)
-  [Redis Tutorial](#Redis-Tutorial)
-  [License](#License)
+**README: Contents**\
+  [Introduction](#Introduction)\
+  [Beyond key-value databases](#Beyond-key-value-databases)\
+  [What are the differences between Redis and Memcached?](#What-are-the-differences-between-Redis-and-Memcached)\
+  [What are the differences between Redis and Tokyo Cabinet / Tyrant?](#What-are-the-differences-between-Redis-and-Tokyo-Cabinet-/-Tyrant)\
+  [Does Redis support locking?](#Does-Redis-support-locking)\
+  [Multiple databases support](#Multiple-databases-support)\
+  [Redis Data Types](#Redis-Data-Types)\
+    [Implementation Details](#Implementation-Details)\
+  [Redis Tutorial](#Redis-Tutorial)\
+  [License](#License)\
   [Credits](#Credits)
 
 README

@@ -1,5 +1,5 @@
-**Benchmarks: Contents**
-  [How Fast is Redis?](#How-Fast-is-Redis)
+**Benchmarks: Contents**\
+  [How Fast is Redis?](#How-Fast-is-Redis)\
   [Latency percentiles](#Latency-percentiles)
 
 Benchmarks

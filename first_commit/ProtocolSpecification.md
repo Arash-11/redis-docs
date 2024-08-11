@@ -1,16 +1,16 @@
-**ProtocolSpecification: Contents**
-  [Protocol Specification](#Protocol-Specification)
-    [Networking layer](#Networking-layer)
-    [Simple INLINE commands](#Simple-INLINE-commands)
-    [Bulk commands](#Bulk-commands)
-    [Bulk replies](#Bulk-replies)
-    [Bulk reply error reporting](#Bulk-reply-error-reporting)
-    [Multi-Bulk replies](#Multi-Bulk-replies)
-    [Nil elements in Multi-Bulk replies](#Nil-elements-in-Multi-Bulk-replies)
-    [Multi-Bulk replies errors](#Multi-Bulk-replies-errors)
-    [Status code reply](#Status-code-reply)
-    [Integer reply](#Integer-reply)
-    [Single line reply](#Single-line-reply)
+**ProtocolSpecification: Contents**\
+  [Protocol Specification](#Protocol-Specification)\
+    [Networking layer](#Networking-layer)\
+    [Simple INLINE commands](#Simple-INLINE-commands)\
+    [Bulk commands](#Bulk-commands)\
+    [Bulk replies](#Bulk-replies)\
+    [Bulk reply error reporting](#Bulk-reply-error-reporting)\
+    [Multi-Bulk replies](#Multi-Bulk-replies)\
+    [Nil elements in Multi-Bulk replies](#Nil-elements-in-Multi-Bulk-replies)\
+    [Multi-Bulk replies errors](#Multi-Bulk-replies-errors)\
+    [Status code reply](#Status-code-reply)\
+    [Integer reply](#Integer-reply)\
+    [Single line reply](#Single-line-reply)\
     [Multiple commands and pipelining](#Multiple-commands-and-pipelining)
 
 ProtocolSpecification

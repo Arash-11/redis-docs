@@ -1,12 +1,12 @@
-**FAQ: Contents**
-  [Why I need Redis if there is already memcachedb, Tokyo Cabinet, ...?](#Why-I-need-Redis-if-there-is-already-memcachedb-Tokyo-Cabinet)
-  [Isn't this key-value thing just hype?](#Isn't this key-value thing just hype?)
-  [Can I backup a Redis DB while the server is working?](#Can-I-backup-a-Redis-DB-while-the-server-is-working)
-  [What's the Redis memory footprint?](#Whats-the-Redis-memory-footprint)
-  [I like Redis high level operations and features, but I don't like it takes everything in memory and I can't have a dataset larger the memory. Plans to change this?](#I-like-Redis-high-level-operations-and-features-but-I-dont-like-it-takes-everything-in-memory-and-I-cant-have-a-dataset-larger-the-memory-Plans-to-change-this)
-  [Ok but I absolutely need to have a DB larger than memory, still I need the Redis features](#Ok-but-I-absolutely-need-to-have-a-DB-larger-than-memory-still-I-need-the-Redis-features)
-  [What happens if Redis runs out of memory?](#What-happens-if-Redis-runs-out-of-memory)
-  [What Redis means actually?](#What-Redis-means-actually)
+**FAQ: Contents**\
+  [Why I need Redis if there is already memcachedb, Tokyo Cabinet, ...?](#Why-I-need-Redis-if-there-is-already-memcachedb-Tokyo-Cabinet)\
+  [Isn't this key-value thing just hype?](#Isnt-this-key-value-thing-just-hype)\
+  [Can I backup a Redis DB while the server is working?](#Can-I-backup-a-Redis-DB-while-the-server-is-working)\
+  [What's the Redis memory footprint?](#Whats-the-Redis-memory-footprint)\
+  [I like Redis high level operations and features, but I don't like it takes everything in memory and I can't have a dataset larger the memory. Plans to change this?](#I-like-Redis-high-level-operations-and-features-but-I-dont-like-it-takes-everything-in-memory-and-I-cant-have-a-dataset-larger-the-memory-Plans-to-change-this)\
+  [Ok but I absolutely need to have a DB larger than memory, still I need the Redis features](#Ok-but-I-absolutely-need-to-have-a-DB-larger-than-memory-still-I-need-the-Redis-features)\
+  [What happens if Redis runs out of memory?](#What-happens-if-Redis-runs-out-of-memory)\
+  [What Redis means actually?](#What-Redis-means-actually)\
   [Why did you started the Redis project?](#Why-did-you-started-the-Redis-project)
 
 FAQ
